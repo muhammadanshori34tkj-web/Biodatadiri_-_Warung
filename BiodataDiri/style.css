@@ -1,31 +1,31 @@
 body {
-  font-family: Arial, sans-serif;
-  line-height: 1.6;
-  background-color: #eaf4ff;
+  font-family: Verdana, sans-serif;
+  line-height: 1.7;
+  background-color: #202b28;
 }
 
 h2 {
-  color: darkblue;
-  font-size: 22px;
+  color: #b9d6c0;
+  font-size: 20px;
 }
 
 p {
-  color: #333333;
+  color: whitesmoke;
   font-size: 16px;
 }
 
-.nama {
-  color: #1f4e79;
+.perkenalan {
+  color: #e0d3b5;
   font-weight: bold;
 }
 
 .motto {
-  color: darkgreen;
-  background-color: lightyellow;
+  color: #f1d590;
+  font-weight: bold;
 }
 
-#judul-utama {
-  color: darkblue;
-  font-size: 28px;
-  text-align: center;
+#judul-profil {
+  color: lightgreen;
+  font-size: 30px;
+  text-align: left;
 }
